@@ -1,0 +1,74 @@
+{
+  "numTotalTestSuites": 1,
+  "numPassedTestSuites": 1,
+  "numFailedTestSuites": 0,
+  "numPendingTestSuites": 0,
+  "numTotalTests": 5,
+  "numPassedTests": 5,
+  "numFailedTests": 0,
+  "numPendingTests": 0,
+  "numTodoTests": 0,
+  "startTime": 1703474170127,
+  "success": true,
+  "testResults": [
+    {
+      "assertionResults": [
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Kareler ekranda doğru şekilde oluşmuş",
+          "status": "passed",
+          "title": "Kareler ekranda doğru şekilde oluşmuş",
+          "duration": 11,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Sayfa ilk yüklendiğinde seçili bir kare yok",
+          "status": "passed",
+          "title": "Sayfa ilk yüklendiğinde seçili bir kare yok",
+          "duration": 2,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Tıklanan kareye active class'ı ekleniyor.",
+          "status": "passed",
+          "title": "Tıklanan kareye active class'ı ekleniyor.",
+          "duration": 8,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Bir kareye 2 kere tıklanınca active class'ı eklenip kaldırılıyor",
+          "status": "passed",
+          "title": "Bir kareye 2 kere tıklanınca active class'ı eklenip kaldırılıyor",
+          "duration": 6,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Bir kareye tıklanınca diğer karalerdeki active class'ı kaldırılıyor",
+          "status": "passed",
+          "title": "Bir kareye tıklanınca diğer karalerdeki active class'ı kaldırılıyor",
+          "duration": 2,
+          "failureMessages": []
+        }
+      ],
+      "startTime": 1703474953029,
+      "endTime": 1703474953058,
+      "status": "passed",
+      "message": "",
+      "name": "/home/projects/vitejs-vite-mv4jyn/src/__tests__/Kareler.test.jsx"
+    }
+  ]
+}
